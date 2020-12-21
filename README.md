@@ -14,9 +14,9 @@
 ------------------
 ## فهرست درس ها  
 
-[ 1322010_01 & 02 روش پژوهش و ارائه 2 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
+[ 1322010_01 & 02 روش پژوهش و ارائه 2 ](https://github.com/hosseinzandieh/PNU_3991_AR/tree/main/ResearchAndPresentationMethods)
 <br>
-[ 1322035_01 پروژه فناوري اطلاعات 3 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322035_01)
+[ 1322035_01 پروژه فناوري اطلاعات 3 ](https://github.com/hosseinzandieh/PNU_3991_AR/tree/main/Project)
 
 --------------
 ## گروه های درسی
