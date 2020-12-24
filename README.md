@@ -7,7 +7,7 @@
 # حسین زندیه
 - [PNU_3991_AR](https://github.com/hosseinzandieh/PNU_3991_AR)
 - [Resume](https://hosseinzandieh.github.io/) 
-- [SOP]()
+- [SOP](https://hosseinzandieh.github.io/sop/)
 - [Certificates]()
 - [GitHub](https://github.com/hosseinzandieh)
 
