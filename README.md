@@ -11,6 +11,16 @@
 - [Certificates](https://github.com/hosseinzandieh/PNU_3991_AR/blob/main/js.jpg)
 - [GitHub](https://github.com/hosseinzandieh)
 - [jlord patchwork](https://github.com/hosseinzandieh/PNU_3991_AR/blob/main/jlord.PNG)
+----------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/hosseinzandieh/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/hosseinzandieh/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+
+## بخش دروس کارشناسی
+- [خلاصه ارزیابی درس_روش پژوهش وارائه](https://github.com/hosseinzandieh/PNU_3991_AR/blob/main/ResearchAndPresentationMethods/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+
 ------------------
 ## فهرست درس ها  
 
